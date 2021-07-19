@@ -1,5 +1,5 @@
-import React, { useState, useContext, useReducer, useEffect } from 'react'
-
+// eslint-disable-next-line
+import React, { useContext, useReducer, useEffect } from 'react'
 import {reducer} from './reducer'
 // ATTENTION!!!!!!!!!!
 // I SWITCHED TO PERMANENT DOMAIN
